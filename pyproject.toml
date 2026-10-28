@@ -24,8 +24,8 @@ classifiers = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/YOUR-USERNAME/wa-clean"
-Issues = "https://github.com/YOUR-USERNAME/wa-clean/issues"
+Homepage = "https://github.com/chamikalakshan/wa-clean"
+Issues = "https://github.com/chamikalakshan/wa-clean/issues"
 
 [project.scripts]
 wa-clean = "wa_clean.cli:main"

@@ -26,13 +26,13 @@ is already on your Mac (run `xcode-select --install` if `python3` is missing).
 With [pipx](https://pipx.pypa.io):
 
 ```bash
-pipx install git+https://github.com/YOUR-USERNAME/wa-clean.git
+pipx install git+https://github.com/chamikalakshan/wa-clean.git
 ```
 
 Or run it straight from a clone:
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/wa-clean.git
+git clone https://github.com/chamikalakshan/wa-clean.git
 cd wa-clean
 python3 -m wa_clean scan
 ```
@@ -127,7 +127,7 @@ Python 3.9 (the system Python). The older Electron-based WhatsApp Desktop keeps
 media elsewhere and isn't supported.
 
 If wa-clean reports that WhatsApp's database layout has changed, please
-[open an issue](https://github.com/YOUR-USERNAME/wa-clean/issues) with your
+[open an issue](https://github.com/chamikalakshan/wa-clean/issues) with your
 WhatsApp and macOS versions.
 
 ## Development
